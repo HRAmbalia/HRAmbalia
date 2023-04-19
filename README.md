@@ -34,6 +34,8 @@ Some projects I have worked on..
 
 - 🔭 I’ve worked on [Matrimonial site - PHP project](https://github.com/HRAmbalia/PHP-Matrimonial-site)
 
+Activities..
+
 - 🌱 I’m currently learning React JS.
 
 - 📝 I regularly write articles on [https://www.thecprograms.com/](https://www.thecprograms.com/)
