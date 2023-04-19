@@ -20,25 +20,31 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitambalia&label=Profile%20views&color=0e75b6&style=flat" alt="harshitambalia" /> </p>
 
-- 🔭 I’ve worked on [Canteen Management System - ASP.NET Framework](https://github.com/HarshitAmbalia/CMS_AspNetFramework)
+Some projects I have worked on..
 
-<img align="right" alt="Coder" width="400" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" />
+- 🔭 I’ve worked on [Breaking CAPTCHA using ML - Django + ML project](https://github.com/HRAmbalia/CAPTCHA-detection-BISAG)
 
-- 🌱 I’m currently learning **React + Django**
+- 🔭 I’ve worked on [Document Manipulation - Django Project](https://github.com/HRAmbalia/DocEasy)
 
-- 🔭 I’m currently working on [DocEasy - Django+React Project](https://github.com/HarshitAmbalia/DocEasy/)
+- 🔭 I’ve worked on [Canteen Management System - ASP.NET Framework](https://github.com/HRAmbalia/CMS_AspNetFramework)
 
-- 🤝 I’m looking for help to moniter this project [Canteen Management System - ASP.NET core project](https://github.com/HarshitAmbalia/WDDN_DotNetCore_CanteenManagementSyatem_06_20)
+- 🔭 I’ve worked on [Canteen Management System - ASP.NET Core](https://github.com/HRAmbalia/ASPnet-Core-Canteen-Management-System)
+
+- 🔭 I’ve worked on [Bus ticket booking System - Django project](https://github.com/HRAmbalia/Bus-ticket-booking)
+
+- 🔭 I’ve worked on [Matrimonial site - PHP project](https://github.com/HRAmbalia/PHP-Matrimonial-site)
+
+- 🌱 I’m currently learning React JS.
 
 - 📝 I regularly write articles on [https://www.thecprograms.com/](https://www.thecprograms.com/)
 
 - 💬 Ask me about **Django, Python, HTML, .NET-Core**
 
-- 📫 How to reach me **ambaliaharshit25@gmail.com**
+- 📫 Reach me **ambaliaharshit25@gmail.com**
 
-- 📄 Know about my experiences [myResume](https://drive.google.com/file/d/1zu0rit8UJ0nYOSxbbplMVhlDq8U3bCoc/view?usp=sharing)
+- 📄 Know about my experiences [myResume](https://drive.google.com/file/d/1un1OmkjmfDRd_RNaJLr16uGZozfE7j57/view?usp=sharing)
 
-- ⚡ Visit [myPortfolio](https://harshitambalia.github.io/) for more info
+- ⚡ Visit my [Portfolio](https://hrambalia.github.io/) for more info
 
 - ⚡ Fun fact **I am good Photographer XD**
 
