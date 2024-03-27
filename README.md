@@ -44,7 +44,7 @@ Activities..
 
 - 📫 Reach me **ambaliaharshit25@gmail.com**
 
-- 📄 Know about my experiences [myResume](https://drive.google.com/file/d/1un1OmkjmfDRd_RNaJLr16uGZozfE7j57/view?usp=sharing)
+- 📄 Know about my experiences [myResume](https://drive.google.com/file/d/1i-Ek1O3pE0whj1mPUFxep7N3NLcMa_lX/view?usp=sharing)
 
 - ⚡ Visit my [Portfolio](https://hrambalia.github.io/) for more info
 
