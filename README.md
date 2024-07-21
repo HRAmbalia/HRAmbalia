@@ -36,15 +36,11 @@ Some projects I have worked on..
 
 Activities..
 
-- 🌱 I’m currently learning React JS.
-
-- 📝 I regularly write articles on [https://www.thecprograms.com/](https://www.thecprograms.com/)
-
-- 💬 Ask me about **Django, Python, HTML, .NET-Core**
+- 🌱 I’m currently expanding my knowledge in domain of AI.
 
 - 📫 Reach me **ambaliaharshit25@gmail.com**
 
-- 📄 Know about my experiences [myResume](https://drive.google.com/file/d/1i-Ek1O3pE0whj1mPUFxep7N3NLcMa_lX/view?usp=sharing)
+- 📄 Know about my experiences [myResume](https://drive.google.com/file/d/1l_6qhsk3juuCkSip6TEVuNJVVBH1YROX/view?usp=sharing)
 
 - ⚡ Visit my [Portfolio](https://hrambalia.github.io/) for more info
 
@@ -52,7 +48,7 @@ Activities..
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/harshit ambalia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshit ambalia" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/harshit-ambalia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshit ambalia" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ambaliaharshit25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ambaliaharshit25" height="30" width="40" /></a>
 </p>
 
